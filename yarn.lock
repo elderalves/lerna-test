@@ -1049,7 +1049,7 @@
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
 "@elderalves/footer@file:/Applications/MAMP/htdocs/mtc/mtc-lerna/getting-started-example/packages/footer":
-  version "0.0.6"
+  version "0.0.7"
   resolved "file:packages/footer"
   dependencies:
     "@testing-library/react" "13.3.0"
@@ -5626,7 +5626,7 @@ follow-redirects@^1.15.0:
   integrity sha512-VQLG33o04KaQ8uYi2tVNbdrWp1QWxNNea+nmIB4EVM28v0hmP17z7aG1+wAkNzVq4KeXTq3221ye5qTJP91JwA==
 
 footer@*:
-  version "0.0.6"
+  version "0.0.7"
   resolved "file:packages/footer"
   dependencies:
     "@testing-library/react" "13.3.0"
