@@ -35,5 +35,6 @@
     "rollup-plugin-dts": "^5.3.0",
     "ts-jest": "^29.1.0",
     "typescript": "^5.0.4"
-  }
+  },
+  "gitHead": "2231511ac9f8f1f0b5e2b2d896edde8b160487f4"
 }
