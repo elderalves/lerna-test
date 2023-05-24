@@ -25,6 +25,11 @@ jobs:
     - name: Bootstrap Lerna
       run: npx lerna bootstrap
 
+    - name: Set up Git
+      run: |
+        git config user.name "Michael Alves"
+        git config user.email "michaelalves@outlook.com"
+
     - name: Version packages
       run: npx lerna version --conventional-commits --no-changelog --yes
 
