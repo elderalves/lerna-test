@@ -25,6 +25,9 @@ jobs:
     - name: Bootstrap Lerna
       run: npx lerna bootstrap
 
+    - name: Version packages
+      run: npx lerna version --conventional-commits --no-changelog --yes
+
     - name: Publish packages
       run: npx lerna publish from-git --yes
       env:
