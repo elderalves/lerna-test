@@ -17,7 +17,7 @@
     "access": "public"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@rollup/plugin-commonjs": "^25.0.0",
     "@rollup/plugin-node-resolve": "^15.0.2",
@@ -36,5 +36,5 @@
     "ts-jest": "^29.1.0",
     "typescript": "^5.0.4"
   },
-  "gitHead": "f78be75647ceca0b436f745e415d2d142112e6bb"
+  "gitHead": "d1f15caab2da4974f3560fa6ea9d16f4e5efac33"
 }
